@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: close
 contact_links:
   - name: Ask a question on how to use GitHub Copilot in the CLI
     url: https://github.com/github/gh-copilot/discussions
